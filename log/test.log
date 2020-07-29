@@ -1,0 +1,3 @@
+2020-07-13 16:32:43,697 INFO [test_pub_aritcal.py(test_pub_artical:27)] - 发布文章信息为文章标题=testCase_13163234,文章内容=我要出去找工作,找个好工作,月薪8W8,迎娶白富美！！！,文章频道=授课专用
+2020-07-13 16:32:43,698 INFO [test_pub_aritcal.py(test_pub_artical:29)] - ----->调用首页进入发布文章的业务方法
+2020-07-13 16:32:43,833 INFO [test_pub_aritcal.py(test_pub_artical:31)] - ----->调用发布文章页面发布文章的业务方法
